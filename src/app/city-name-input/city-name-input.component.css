@@ -1,0 +1,213 @@
+.desktop-1 {
+  width:1440px;
+  height:1024px;
+  position:absolute;
+  overflow:hidden
+  }
+
+  .flex-item {
+  display:flex;
+  flex:auto;
+  height:auto;
+  width:auto;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap
+  }
+  
+  .rectangle-1 {
+  background:rgba(255,255,255,0.2);
+  border-radius:53px;
+  width:1035px;
+  height:369px;
+  position:absolute;
+  left:203px;
+  top:192px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .rectangle-5 {
+  background:rgba(58,58,58,0.2);
+  border-radius:25px;
+  width:100px px;
+  height:100px px;
+  position:absolute;
+  left:1053px;
+  top:209px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .rectangle-3 {
+  background:rgba(255,255,255,0.2);
+  border-radius:53px;
+  width:329px;
+  height:288px;
+  position:absolute;
+  left:764px;
+  top:601px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .city {
+  color:#000;
+  text-align:center;
+  font:400 106px Poppins,sans-serif;
+  position:absolute;
+  left:543px;
+  top:395px;
+  width:229px;
+  height:100px
+  }
+  
+  .group-2 {
+  position:absolute;
+  inset:0
+  }
+  
+  .rectangle-2 {
+  background:rgba(255,255,255,0.2);
+  border-radius:53px;
+  width:329px;
+  height:288px;
+  position:absolute;
+  left:377px;
+  top:601px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .humidity {
+  color:#000;
+  text-align:center;
+  font:400 40px Poppins,sans-serif;
+  position:absolute;
+  left:calc(50% - 270px);
+  top:calc(50% - -111px)
+  }
+  
+  ._60 {
+  color:#000;
+  text-align:center;
+  font:400 76px Poppins,sans-serif;
+  position:absolute;
+  left:434px;
+  top:710px;
+  width:215px;
+  height:100px
+  }
+  
+  ._100 {
+  color:#000;
+  text-align:center;
+  font:400 76px Poppins,sans-serif;
+  position:absolute;
+  left:820px;
+  top:710px;
+  width:215px;
+  height:100px
+  }
+  
+  .temperature {
+  color:#000;
+  text-align:center;
+  font:400 40px Poppins,sans-serif;
+  position:absolute;
+  left:calc(50% - -75px);
+  top:calc(50% - -111px)
+  }
+  
+  .now-in {
+  color:#000;
+  text-align:right;
+  font:400 32px Poppins,sans-serif;
+  position:absolute;
+  left:320px;
+  top:348px;
+  width:229px;
+  height:28px
+  }
+  
+  .it-s {
+  color:#000;
+  text-align:center;
+  font:400 41px "Font Awesome 5 Free",sans-serif;
+  position:absolute;
+  left:187px;
+  top:228px;
+  width:229px;
+  height:28px
+  }
+  
+  .group-3 {
+  position:absolute;
+  inset:0
+  }
+  
+  .rectangle-6 {
+  background:rgba(255,255,255,0.2);
+  border-radius:22px;
+  width:370px;
+  height:66px;
+  position:absolute;
+  left:868px;
+  top:86px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .form-control {
+  border-radius:22px;
+  width:370px;
+  height:66px;
+  left:868px;
+  top:86px;
+  box-shadow:0 0 24px 7px rgba(0,0,0,0.09)
+  }
+  
+  .suuny {
+  color:#000;
+  text-align:left;
+  font:400 65px "Font Awesome 5 Free",sans-serif;
+  position:absolute;
+  left:314px;
+  top:279px;
+  width:554px;
+  height:62px
+  }
+  
+  .btn {
+  background:hsl(192,89%,93%);
+  border-radius:20px;
+  padding:5px;
+  display:flex;
+  flex-direction:row;
+  gap:10px;
+  align-items:center;
+  justify-content:center;
+  width:100px;
+  position:relative;
+  box-shadow:0 4px 15px 0 rgba(46,46,46,0.15)
+  }
+  
+  .search {
+  color:#2e2e2e;
+  text-align:right;
+  font:500 18px Montserrat,sans-serif;
+  position:relative;
+  width:91px;
+  height:16px;
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  color:#000;
+  text-align:center;
+  font:400 41px "Font Awesome 5 Free",sans-serif;
+  position:absolute;
+  left:1017px;
+  top:98px;
+  width:229px;
+  height:28px
+  }
+
+  .image-1{
+    width: 100vw;
+    height: 100vh;
+  }
